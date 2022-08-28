@@ -1,0 +1,22 @@
+site_name: Mukesh Gautam
+
+theme:
+  name: "material"
+  logo: images/logo.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: switchto darkmode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: switchto lightmode
+        
+nav:
+  - About Me: index.md
+  - Education: education.md
+  - Work Experience: projects.md
+  - Publications: publication.md
+  - Contacts: contacts.md
+
