@@ -16,7 +16,8 @@ theme:
 nav:
   - About Me: index.md
   - Education: education.md
-  - Work Experience: projects.md
+  - Work Experience: experiences.md
   - Publications: publication.md
+  - Projects: projects.md
   - Contacts: contacts.md
 
